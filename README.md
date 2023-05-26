@@ -43,7 +43,7 @@ COMO EXECUTAR O PROJETO:
     ![Getting Started](/Imagens/launch.png)  
 
 Na mesma linha do "vmArgs" coloque o diretório em que se encontram os arquivos do javafx  
-"vmArgs": "--module-path \"C:\Program Files\Java\javafx-sdk-17.0.7\lib\" --add-modules javafx.controls,javafx.fxml"  
+Exemplo: "vmArgs": "--module-path \"C:\Program Files\Java\javafx-sdk-17.0.7\lib\" --add-modules javafx.controls,javafx.fxml"  
 deixando os \" antes e depois do diretório     
     ![Getting Started](/Imagens/diretorio.png)  
 
