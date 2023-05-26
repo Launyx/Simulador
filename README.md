@@ -39,47 +39,47 @@ COMO EXECUTAR O PROJETO:
 4.Selecione a pasta que você acabou de extrair:  
     ![Getting Started](/Imagens/Pasta.png)  
 
-5.Ainda no VSCode, abra o arquivo launch.json que se contra dentro da pasta .vscode  
-    ![Getting Started](/Imagens/launch.png)  
-
+5.Ainda no VSCode, abra o arquivo launch.json que se contra dentro da pasta .vscode   
+    ![Getting Started](/Imagens/launch.png)   
+  
 Na mesma linha do "vmArgs" coloque o diretório em que se encontram os arquivos do javafx  
 Exemplo: "vmArgs": "--module-path \"C:\Program Files\Java\javafx-sdk-17.0.7\lib\" --add-modules javafx.controls,javafx.fxml"  
-deixando os \" antes e depois do diretório e trocando as barras por contra barras entre das pastas 
-    ![Getting Started](/Imagens/diretorio.png)  
-
-6.No explorador, clique na pasta "src" e selecione o arquivo UnidadeControle.java e aperte F5  
-    ![Getting Started](/Imagens/UNIDADE.png)  
+deixando os \" antes e depois do diretório e trocando as barras por contra barras entre das pastas  
+    ![Getting Started](/Imagens/diretorio.png)   
   
+6.No explorador, clique na pasta "src" e selecione o arquivo UnidadeControle.java e aperte F5   
+    ![Getting Started](/Imagens/UNIDADE.png)   
+   
+   
+UTILIZANDO O PROJETO   
+   
+1.TELA INICIAL   
+    ![Getting Started](/Imagens/TELAINICIAL.png)    
   
-UTILIZANDO O PROJETO  
-  
-1.TELA INICIAL  
-    ![Getting Started](/Imagens/TELAINICIAL.png)  
-
-Esta tela é bem simples, basta escolher se quer inserir os dados na memória ou direto nos registradores  
-  
-2.TELAS 
-    ![Getting Started](/Imagens/TELAS.png)
+Esta tela é bem simples, basta escolher se quer inserir os dados na memória ou direto nos registradores   
+   
+2.TELAS  
+    ![Getting Started](/Imagens/TELAS.png)  
 Ambas opções tem a tela identica, só se diferenciam em:  
-
-Na escolha de memória os dados devem ser inseridor nos campos das memórias  
-    ![Getting Started](/Imagens/MEMORIA.png)
-
-E clicar no botão "iniciar", até que os valores cheguem nos espaços A e B da ULA
-    ![Getting Started](/Imagens/ULA.png)
-Depois basta clicar em um operador e ver o resultado voltando para a memória
-
-IMPORTANTE: no caso da memória, deve-se respeitar a ordem dos locais, colocando os valores somente em espaços vazios
-
-Ao fim do processo ou se todos os espaços da memória estiverem sendo usados, basta clicar no botão "resetar" para que o programa volte ao seu estado original, podendo recomeçar a simulação
-    ![Getting Started](/Imagens/RESETAR.png)
-
-No caso da escolha do registrador, segue-se o mesmo padrão, com a diferença que os valores devem ser digitados direto nos registradores
-    ![Getting Started](/Imagens/REGISTRADORES.png)
-
-Ao encher todos os espaços da memória, deverá ser utilizado o botão "resetar" e a simulação poderá continuar normalmente
-
-Por fim o botão "retornar"
-    ![Getting Started](/Imagens/RETORNAR.png)
-
-Pode ser utilizado para retornar à tela inicial onde pode ser selsecionada outra opção de simulação.
+  
+Na escolha de memória os dados devem ser inseridor nos campos das memórias   
+    ![Getting Started](/Imagens/MEMORIA.png)  
+  
+E clicar no botão "iniciar", até que os valores cheguem nos espaços A e B da ULA  
+    ![Getting Started](/Imagens/ULA.png)  
+Depois basta clicar em um operador e ver o resultado voltando para a memória  
+  
+IMPORTANTE: no caso da memória, deve-se respeitar a ordem dos locais, colocando os valores somente em espaços vazios  
+  
+Ao fim do processo ou se todos os espaços da memória estiverem sendo usados, basta clicar no botão "resetar" para que o programa volte ao seu estado  original, podendo recomeçar a simulação  
+    ![Getting Started](/Imagens/RESETAR.png)  
+  
+No caso da escolha do registrador, segue-se o mesmo padrão, com a diferença que os valores devem ser digitados direto nos registradores  
+    ![Getting Started](/Imagens/REGISTRADORES.png)  
+  
+Ao encher todos os espaços da memória, deverá ser utilizado o botão "resetar" e a simulação poderá continuar normalmente  
+  
+Por fim o botão "retornar"  
+    ![Getting Started](/Imagens/RETORNAR.png)  
+  
+Pode ser utilizado para retornar à tela inicial onde pode ser selsecionada outra opção de simulação.  
