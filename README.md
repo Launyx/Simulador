@@ -42,11 +42,10 @@ COMO EXECUTAR O PROJETO:
 5.Ainda no VSCode, abra o arquivo launch.json que se contra dentro da pasta .vscode  
     ![Getting Started](/Imagens/launch.png)  
 
-    Na mesma linha do "vmArgs" coloque o diretório em que se encontram os arquivos do javafx  
-    "vmArgs": "--module-path \"C:\Program Files\Java\javafx-sdk-17.0.7\lib\" --add-modules javafx.controls,javafx.fxml"  
-    deixando os \" antes e depois do diretório  
-   
+Na mesma linha do "vmArgs" coloque o diretório em que se encontram os arquivos do javafx  
+"vmArgs": "--module-path \"C:\Program Files\Java\javafx-sdk-17.0.7\lib\" --add-modules javafx.controls,javafx.fxml"  
+deixando os \" antes e depois do diretório     
     ![Getting Started](/Imagens/diretorio.png)  
 
-5.No explorador, clique na pasta "src" e selecione o arquivo UnidadeControle.java e aperte F5  
+6.No explorador, clique na pasta "src" e selecione o arquivo UnidadeControle.java e aperte F5  
     ![Getting Started](/Imagens/UNIDADE.png)  
