@@ -12,6 +12,7 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
+import javafx.scene.image.Image;
 import javafx.scene.shape.Rectangle;
 import javafx.stage.Stage;
 
@@ -121,6 +122,7 @@ public class UnidadeControle extends Application implements EventHandler<ActionE
         Parent root2 = fxmlLoader2.load();
         Scene tela2 = new Scene(root2);
         
+        primaryStage.getIcons().add(new Image("JavaIcon.png"));
         primaryStage.setTitle("Simulador de CPU");
         primaryStage.setScene(tela2);
         primaryStage.show();
