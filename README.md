@@ -82,4 +82,4 @@ Ao encher todos os espaços da memória, deverá ser utilizado o botão "resetar
 Por fim o botão "retornar"  
     ![Getting Started](/Imagens/RETORNAR.png)  
   
-Pode ser utilizado para retornar à tela inicial onde pode ser selsecionada outra opção de simulação.  
+Pode ser utilizado para retornar à tela inicial onde pode ser selecionada outra opção de simulação.  
